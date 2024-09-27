@@ -46,23 +46,23 @@
     "ShowHardPaywall":true,
     "ShowHardPaywallFor":5,
     "ShowTrial":true,
-    "LifeTimeSKu":"com.darkwallpaper.backgrounddarkks.lifetime",
+    "LifeTimeSKu":"com.ButterflyAestheticWallpaper.ahmedwallpaper.lifetime",
     "LifeTimePrice":"$39.99 / Lifetime",
-    "MonthlySKu":"com.darkwallpaper.backgrounddarkks.monthly",
+    "MonthlySKu":"com.ButterflyAestheticWallpaper.ahmedwallpaper.monthly",
     "MonthlyPrice":"$3.99 / Month",
-    "AnnualSKu":"com.darkwallpaper.backgrounddarkks.year",
+    "AnnualSKu":"com.ButterflyAestheticWallpaper.ahmedwallpaper.year",
     "AnnualPrice":"$29.99 / Year"
   },
   "Paywall2":{
     "ShowHardPaywall":true,
     "ShowHardPaywallFor":5,
-    "AnnualSKu":"com.darkwallpaper.backgrounddarkks.year",
+    "AnnualSKu":"com.ButterflyAestheticWallpaper.ahmedwallpaper.year",
     "AnnualPrice":"$29.99 / Year"
   },
   "Paywall3":{
     "ShowHardPaywall":true,
     "ShowHardPaywallFor":5,
-    "LifeTimeSKu":"com.darkwallpaper.backgrounddarkks.lifetime",
+    "LifeTimeSKu":"com.ButterflyAestheticWallpaper.ahmedwallpaper.lifetime",
     "LifeTimePrice":"$39.99"
   }
 }
