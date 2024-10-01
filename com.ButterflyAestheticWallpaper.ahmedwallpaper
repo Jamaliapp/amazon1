@@ -1,68 +1,13 @@
 {
-  "AdsManager": {
+  "ads":{
     "ShowAds":false,
-    "NormalClickCount":1,
-    "AdmobClickCount":4,
-    "ShowLoadingAds":true,
-    "BannerAds":"mintegral",
-    "InterstitialAds":"mintegral",
-    "NativeAds":"mintegral",
-    "RewardAds":"mintegral",
-    "AdmobAppID":"ca-app-pub-4481347566210322~00000000",
-    "AdmobInterstitial":"ca-app-pub-4481347566210322/7672693966",
-    "AdmobBanner":"ca-app-pub-4481347566210322/7425281956",
-    "AdmobNative":"ca-app-pub-4481347566210322/9420889901",
-    "AdmobReward":"ca-app-pub-4481347566210322/4150265828",
-    "UnityID":"5588465",
-    "UnityBanner":"banner",
-    "UnityInterstitial":"Interstitial_Android",
-    "UnityReward":"Rewarded_Android",
-    "MintegralAppID":"279764",
-    "MintegralAppKey":"9fd2fba27e35e25a421038ec7e7b9271",
-    "MintegralNativeUnitID":"3252827",
-    "MintegralNativePlacementID":"1442408",
-    "MintegralInterstitialUnitID":"3252828",
-    "MintegralInterstitialPlacementID":"1442409",
-    "MintegralBannerUnitID":"3252825",
-    "MintegralBannerPlacementID":"1442406",
-    "MintegralRewardUnitID":"3252830",
-    "MintegralRewardPlacementID":"1442411",
-    "YandexBanner":"demo-banner-yandex",
-    "YandexInterstitial":"demo-interstitial-yandex",
-    "YandexNative":"demo-native-video-yandex",
-    "YandexReward":"demo-rewarded-yandex"
-    },
-  "AppControl":{
-    "OnesignalID":"0128ec07-6774-4d4f-ac16-dbc721d011da",
-    "ShowUpdate":false,
-    "UpdateLink":"",
-    "UpdateVersion":6,
-    "ShowMockupData":false,
-    "UpdateFromAmazon":true,
-    "ShowRewardAndSubscribe":true,
-"ShowCategories":false
-  },
-  "Paywall1":{
-    "ShowHardPaywall":true,
-    "ShowHardPaywallFor":5,
-    "ShowTrial":true,
-    "LifeTimeSKu":"com.ButterflyAestheticWallpaper.ahmedwallpaper.lifetime",
-    "LifeTimePrice":"$39.99 / Lifetime",
-    "MonthlySKu":"com.ButterflyAestheticWallpaper.ahmedwallpaper.monthly",
-    "MonthlyPrice":"$3.99 / Month",
-    "AnnualSKu":"com.ButterflyAestheticWallpaper.ahmedwallpaper.year",
-    "AnnualPrice":"$29.99 / Year"
-  },
-  "Paywall2":{
-    "ShowHardPaywall":true,
-    "ShowHardPaywallFor":5,
-    "AnnualSKu":"com.ButterflyAestheticWallpaper.ahmedwallpaper.year",
-    "AnnualPrice":"$29.99 / Year"
-  },
-  "Paywall3":{
-    "ShowHardPaywall":true,
-    "ShowHardPaywallFor":5,
-    "LifeTimeSKu":"com.ButterflyAestheticWallpaper.ahmedwallpaper.lifetime",
-    "LifeTimePrice":"$39.99"
+    "MintegralAppKey":"7c22942b749fe6a6e361b675e96b3ee9",
+    "mintegralAppID":"1440",
+    "mintegralbannerunit":"26",
+    "mintegralbannerplacement":"1010",
+    "mintegralinterstitialunit":"4623",
+    "mintegralinterstitialplacement":"2906",
+    "mintegralnativeunit":"462",
+    "mintegralnativeplacement":"290"
   }
 }
