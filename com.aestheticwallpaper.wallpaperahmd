@@ -1,0 +1,13 @@
+{
+  "ads":{
+    "ShowAds":false,
+    "MintegralAppKey":"7c22942b749fe6a6e361b675e96b3ee9",
+    "mintegralAppID":"1440",
+    "mintegralbannerunit":"26",
+    "mintegralbannerplacement":"1010",
+    "mintegralinterstitialunit":"4623",
+    "mintegralinterstitialplacement":"2906",
+    "mintegralnativeunit":"462",
+    "mintegralnativeplacement":"290"
+  }
+}
